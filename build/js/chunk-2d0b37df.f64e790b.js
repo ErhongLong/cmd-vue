@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b37df"],{2935:function(e,n,t){"use strict";t.r(n);var c=t("7a23"),o=Object(c["createElementVNode"])("h2",null,"页面加载错误, 请联系管理员~",-1),r=[o];function u(e,n,t,o,u,d){return Object(c["openBlock"])(),Object(c["createElementBlock"])("div",null,r)}var d=Object(c["defineComponent"])({setup:function(){return{}}});d.render=u;n["default"]=d}}]);
+//# sourceMappingURL=chunk-2d0b37df.f64e790b.js.map
